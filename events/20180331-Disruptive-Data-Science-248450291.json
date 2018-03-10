@@ -1,0 +1,18 @@
+{
+  "description": [
+    "We will show how to handle different types of unstructured data and with help with R we will give you the tools that allow to structure, aggregate, transform and perform basic analysis of your data. The aims of this meetup is to turn you into a Data Wrangler!\n",
+    "\n",
+    "What you should bring:\n",
+    "Water bottle, pen, paper, computer.\n",
+    "\n",
+    "Install the following softwares:\n",
+    "- R: https://cran.r-project.org/\n",
+    "- RStudio: https://www.rstudio.com/products/rstudio/download/"
+  ],
+  "end_date": "2018-03-31",
+  "location": "Porto i/o",
+  "name": "DDS#002 - Data Handling with R",
+  "rrule": null,
+  "start_date": "2018-03-31",
+  "url": "https://www.meetup.com/Disruptive-Data-Science/events/248450291/"
+}

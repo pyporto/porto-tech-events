@@ -1,0 +1,28 @@
+{
+  "description": [
+    "Welcome to our #14th meetup about DevOps and its culture, values and practices. This meetup will be around Databases on containers and will be hosted by Jumia Porto Tech Center.\n",
+    "\n",
+    "At Jumia all databases are running on containers. From MariaDB topologies to Couchbase cross-datacenter clusters. From Riak S2 to elasticsearch (also mongodb, just don't tell anyone). It's common knowledge that containers are not good for databases due to network impacts but mainly I/O persistence and performance. Jumia broke all the rules and automated everything. Using Consul to do the service discovery and Fabio for TCP load balancing. At MariaDB level they also use Orchestrator to manage the replication topologies and have automated master discovery embedded into the container being reported to Consul and pointed out to external services via Fabio.\n",
+    "\n",
+    "Our invited speaker, Tiago Caxias (http://twitter.com/tcx__) will show how to get the best of both together.\n",
+    "\n",
+    "Tiago is passionate about systems' architecture and a huge fan of the \"simplicity is prerequisite for reliability\" motto.\n",
+    "You may find him delving into databases, infrastructure or distributed systems.\n",
+    "If you want to get on his good side buy him a weiss beer or tell him that functional languages should rule the world!\n",
+    "\n",
+    "Agenda:\n",
+    "\u2022 Welcome\n",
+    "\u2022 Databases on containers: from myth to Uber-performance! by Tiago Caxias\n",
+    "\u2022 Open space forum\n",
+    "\u2022 Coffee & Networking\n",
+    "\u2022 Closing\n",
+    "\n",
+    "We will have a great event with lot of interesting discussion topics. Join us!"
+  ],
+  "end_date": "2018-03-22",
+  "location": "Jumia Porto Tech Center",
+  "name": "DevOps Porto #14: Databases on containers: from myth to Uber-performance!",
+  "rrule": null,
+  "start_date": "2018-03-22",
+  "url": "https://www.meetup.com/devopsporto/events/248550425/"
+}

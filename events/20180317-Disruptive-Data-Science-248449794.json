@@ -1,0 +1,20 @@
+{
+  "description": [
+    "We will do a small project that imports Amazon S3 public data and runs a machine learning algorithm called random forest to classify whether a high school is public or private based on multiple variables. The set is then encapsulated in a wrapper to transform any script and thus idea into a microservice that can be dockerizer and put into production on any existing cloud.\n",
+    "\n",
+    "The aims of this meetup is to turn your R script as an experimental microservice.\n",
+    "\n",
+    "What you should bring:\n",
+    "Water bottle, pen, paper, computer.\n",
+    "\n",
+    "Install the following softwares:\n",
+    "- R: https://cran.r-project.org/\n",
+    "- RStudio: https://www.rstudio.com/products/rstudio/download/"
+  ],
+  "end_date": "2018-03-17",
+  "location": "Porto i/o",
+  "name": "DDS#001 - R as microservice",
+  "rrule": null,
+  "start_date": "2018-03-17",
+  "url": "https://www.meetup.com/Disruptive-Data-Science/events/248449794/"
+}
