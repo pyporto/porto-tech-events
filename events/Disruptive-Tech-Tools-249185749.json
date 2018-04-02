@@ -1,0 +1,21 @@
+{
+  "description": [
+    "We will show how to manage your code on GitHub and how to keep your git repository clean and safe. The aims of this meetup is to give you the confidence when you are using GitHub.\n",
+    "\n",
+    "What you should bring:\n",
+    "Water bottle, pen, paper, computer.\n",
+    "\n",
+    "Requirements:\n",
+    "- Free GitHub account\n",
+    "- Install Git\n",
+    "&gt; Windows: https://git-scm.com/download/win\n",
+    "&gt; MacOS: https://git-scm.com/download/mac\n",
+    "&gt; Linux: yum/apt install git"
+  ],
+  "end_date": "2018-04-10",
+  "location": "ESTiG (IPB)",
+  "name": "DTT#001 - Manage your code on GitHub",
+  "rrule": null,
+  "start_date": "2018-04-10",
+  "url": "https://www.meetup.com/Disruptive-Tech-Tools/events/249185749/"
+}
