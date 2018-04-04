@@ -1,0 +1,16 @@
+{
+  "description": [
+    "We will show how to handle different types of unstructured data and with help with R we will give you the tools that allow to structure, aggregate, transform and perform basic analysis of your data. The aims of this meetup is to turn you into a Data Wrangler! \n",
+    "What you should bring:\n",
+    "Water bottle, pen, paper, computer. \n",
+    "Install the following softwares:\n",
+    "\u2013 R:\u00a0https://cran.r-project.org/\n",
+    "\u2013 RStudio:\u00a0https://www.rstudio.com/products/rstudio/download/ \n"
+  ],
+  "end_date": "2018-04-07",
+  "location": null,
+  "name": "Disruptive Data Science",
+  "rrule": null,
+  "start_date": "2018-04-07",
+  "url": "http://scaleupporto.pt/event/disruptive-data-science/"
+}
