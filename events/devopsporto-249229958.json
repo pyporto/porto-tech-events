@@ -1,0 +1,26 @@
+{
+  "description": [
+    "Welcome to our 15th meetup about DevOps and it's culture, values and practices. This time around we will hosting Dave Farley (@davefarley77), the well known thought leader and co-author of the seminal book \"Continuous Delivery\". Currently, he is an independent software developer and consultant, and founder and director of Continuous Delivery Ltd. He will be talking about Acceptance Testing for Continuous Delivery.\n",
+    "\n",
+    "Writing and maintaining a suite of acceptance tests that can give you a high level of confidence in the behaviour and configuration of your system is a complex task. In this talk Dave will describe approaches to acceptance testing that allow teams to: work quickly and effectively; build excellent functional coverage for complex enterprise-scale systems; manage and maintain those tests in the face of change, and of evolution in both the codebase and the understanding of the business problem.\n",
+    "\n",
+    "This talk will answer the following questions, and more: How do you fail fast? How do you make your testing scalable? How do you isolate test cases from one-another? How do you maintain a working body of tests when you radically change the interface to your system?\n",
+    "\n",
+    "Agenda:\n",
+    "\u2022 Welcome\n",
+    "\u2022 Acceptance Testing for Continuous Delivery by Dave Farley\n",
+    "\u2022 Open space forum\n",
+    "\u2022 Coffee & Networking\n",
+    "\u2022 Closing\n",
+    "\n",
+    "A special thanks to the DevOps Lisbon team for helping coordinate Dave's presence with us. He'll be presenting at their meetup on the 16th (https://www.meetup.com/pt-BR/DevOps-Lisbon/events/246008861/)\n",
+    "\n",
+    "Also, a special thanks to FARO Technologies (www.faro.com) for sponsoring Dave's stay in Porto."
+  ],
+  "end_date": "2018-04-18",
+  "location": "FARO Technologies",
+  "name": "DevOps Porto #15: Acceptance Testing for Continuous Delivery",
+  "rrule": null,
+  "start_date": "2018-04-18",
+  "url": "https://www.meetup.com/devopsporto/events/249229958/"
+}
