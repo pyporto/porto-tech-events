@@ -1,0 +1,31 @@
+{
+  "description": [
+    "Hello everyone!\n",
+    "\n",
+    "We are delighted to tell you that we'll have our third Papers We Love @ Porto at Porto i/o Riverside.\n",
+    "\n",
+    "Talks\n",
+    "\n",
+    "&gt; Things you should know about Database Storage and Retrieval ~ Pedro Tavares (https://twitter.com/ordepdev)\n",
+    "\n",
+    "On the most fundamental level, a database needs to do two things: when you give it some data, it should store the data, and when you ask it again later, it should give the data back to you.\n",
+    "\n",
+    "Why should you, as an application developer, care how the database handles storage and retrieval internally? In order to select the storage engine that is appropriate for your application, you need to have a rough idea of what the storage engine is doing under the hood.\n",
+    "\n",
+    "In this talk, we\u2019ll discuss and examine some core data structures such as Hash Indexes, SSTables, LSM-Trees, and B-Trees, that are used in the traditional relational databases and NoSQL databases.\n",
+    "\n",
+    "Details\n",
+    "\n",
+    "Doors will open around 19:00 and presentations will start after a quick introduction.\n",
+    "\n",
+    "After the presentation, we will open up the floor for questions and discussions.\n",
+    "\n",
+    "Hope to see you soon!"
+  ],
+  "end_date": "2018-04-24",
+  "location": "Porto i/o Riverside",
+  "name": "April :: Papers We Love #03",
+  "rrule": null,
+  "start_date": "2018-04-24",
+  "url": "https://www.meetup.com/Papers-We-Love-Porto/events/248728411/"
+}
