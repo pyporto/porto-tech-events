@@ -1,16 +1,15 @@
 {
   "description": [
     "Durante as Jornadas FCCN agend\u00e1mos dois momentos nos quais ser\u00e1 poss\u00edvel aos participantes conhecerem melhor as instala\u00e7\u00f5es e o que se faz no INL - International Iberian Nanotechnology Laboratory.\n",
-    "Fa\u00e7a o seu registo num dos dois hor\u00e1rios dispon\u00edveis.\n",
-    "Os hor\u00e1rios previstos para as visitas s\u00e3o:\n",
+    "Fa\u00e7a o seu registo.\n",
+    "O hor\u00e1rio previsto para a visita \u00e9:\n",
     "\n",
-    "Dia 12 de abril por volta das 18h15\n",
-    "Dia 13 de abril por volta das 14h00\n"
+    "Dia 11 de abril \u00e0s 18h15\n"
   ],
-  "end_date": "2018-04-13",
+  "end_date": "2018-04-11",
   "location": "INL",
   "name": "Tour INL",
   "rrule": null,
-  "start_date": "2018-04-12",
+  "start_date": "2018-04-11",
   "url": "https://www.eventbrite.pt/e/bilhetes-tour-inl-44518414777?aff=ebapi"
 }
