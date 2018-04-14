@@ -1,16 +1,15 @@
 {
   "description": [
-    "Hello everyone! \n",
-    "We are delighted to tell you that we\u2019ll have our third Papers We Love @ Porto at Porto i/o Riverside. \n",
+    "\u00a0 \n",
     "Talks \n",
     "> Things you should know about Database Storage and Retrieval ~ Pedro Tavares (https://twitter.com/ordepdev) \n",
     "On the most fundamental level, a database needs to do two things: when you give it some data, it should store the data, and when you ask it again later, it should give the data back to you. \n",
     "Why should you, as an application developer, care how the database handles storage and retrieval internally? In order to select the storage engine that is appropriate for your application, you need to have a rough idea of what the storage engine is doing under the hood. \n",
-    "In this talk, we\u2019ll discuss and examine some core data structures such as Hash Indexes, SSTables, LSM-Trees, and B-Trees, that are used in the traditional relational databases and NoSQL databases. \n",
+    "In this talk, we can discuss and examine some core data structures such as Hash Indexes, SSTables, LSM-Trees, and B-Trees, that are used in the traditional relational databases and NoSQL databases. \n",
     "Details \n",
     "Doors will open around 19:00 and presentations will start after a quick introduction. \n",
-    "After the presentation, we will open up the floor for questions and discussions. \n",
-    "Hope to see you soon! \n"
+    "After the presentation, Q&A will take place. \n",
+    "\u00a0 \n"
   ],
   "end_date": "2018-04-24",
   "location": null,

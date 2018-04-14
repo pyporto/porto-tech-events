@@ -1,0 +1,20 @@
+{
+  "description": [
+    "Interfaces, structures and functions are really powerfull in go. We want to share with you all tricks and tips on this subject. Show up!\n",
+    "\n",
+    "Content Summary:\n",
+    "- What are interfaces, how to use them\n",
+    "- Structs, annotations and context\n",
+    "- Function returns best practices\n",
+    "- Middlewares\n",
+    "\n",
+    "Requirements:\n",
+    "- Computer and go installed"
+  ],
+  "end_date": "2018-05-17",
+  "location": "Porto.io Downtown",
+  "name": "GO#02 - interfaces, structures and functions",
+  "rrule": null,
+  "start_date": "2018-05-17",
+  "url": "https://www.meetup.com/Disruptive-Go/events/249605544/"
+}

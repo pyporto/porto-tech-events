@@ -1,0 +1,27 @@
+{
+  "description": [
+    "Schedule (estimated):\n",
+    "18:45 - Arrival\n",
+    "19:00 - Welcome\n",
+    "19:10 - Ramilo Neves -\u00a0Building your tests with BDD (talk in Portuguese, slides in English)\n",
+    "19:40 - Thiago Marcolino -\u00a0Workshop: Clean. Building a tests\u2019 suite with XUnit, AutoFixture and NSubstitute\u00a0(talk in Portuguese, slides in English)\n",
+    "20:30 - Coffe Break & Networking\n",
+    "\n",
+    "Thiago Marcolino\n",
+    "I have more over six years' experience in software development (Python, Java, Groovy, .Net, etc). All along of my career, I have been focusing on test driven development. Currently, I work as Senior Software Developer at Farfetch in Porto/Portugal where I have been living since December 2016.In my free time, I have been dedicating myself to my private educational project (http://classito.pro/).\n",
+    "\n",
+    "Ramilo Neves\n",
+    "I have been working with software quality for 8 years. I have already worked with manual tests and today I work with test automation. My main skills are interface testing, API and performance testing. As a good Brazilian, I love football. I live in Portugal for 9 months.. I am passionate about the testing area, so I love attending events and exchanging ideas on the area. I currently work at Farfetch as a test automation engineer on the payment team.\n",
+    "\n",
+    "website:\u00a0https://portotestersmeetup.github.io/\n",
+    "slack:\u00a0https://slackvite.com/portotestersmeetup\n",
+    "facebook:\u00a0https://www.facebook.com/groups/PortoTestersMeetup/\n",
+    "email: portotestersmeetup at gmail dot com"
+  ],
+  "end_date": "2018-04-17",
+  "location": "Farfetch",
+  "name": "Porto Testers Meetup #2.6",
+  "rrule": null,
+  "start_date": "2018-04-17",
+  "url": "https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-26-43925140277?aff=ebapi"
+}

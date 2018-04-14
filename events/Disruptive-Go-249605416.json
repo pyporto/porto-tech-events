@@ -1,0 +1,22 @@
+{
+  "description": [
+    "On this meetup we will present the first steps on Go programming language. In the end, you should be able to install, configure and prep some helloworld.go.\n",
+    "\n",
+    "Content Summary:\n",
+    "- Installation 101\n",
+    "- Basic config\n",
+    "- Godoc\n",
+    "- Compiling and running\n",
+    "- Cross platform compile\n",
+    "- Helloworld\n",
+    "\n",
+    "Requirements:\n",
+    "- Computer"
+  ],
+  "end_date": "2018-04-20",
+  "location": "Porto.io Downtown",
+  "name": "GO#01 - Go101 for everyone",
+  "rrule": null,
+  "start_date": "2018-04-20",
+  "url": "https://www.meetup.com/Disruptive-Go/events/249605416/"
+}

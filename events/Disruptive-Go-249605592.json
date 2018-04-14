@@ -1,0 +1,19 @@
+{
+  "description": [
+    "Did you ever wondering about the differences between pointers and references? On this meetup we will clarify all this concepts and usages. Channels will be cherry on top of the cake.\n",
+    "\n",
+    "Content Summary:\n",
+    "- Pointers\n",
+    "- References\n",
+    "- Channels\n",
+    "\n",
+    "Requirements:\n",
+    "- Computer and go installed"
+  ],
+  "end_date": "2018-06-07",
+  "location": "Porto.io Downtown",
+  "name": "GO#03 - How complicated are pointers, references and channels? ",
+  "rrule": null,
+  "start_date": "2018-06-07",
+  "url": "https://www.meetup.com/Disruptive-Go/events/249605592/"
+}
