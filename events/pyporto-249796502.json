@@ -1,0 +1,25 @@
+{
+  "description": [
+    "Our 8th meetup will be in the workshop format. Francisca Dias, a data analyst from Jumia, will make an introductory level master class on machine learning (ML) with Python. She will help you to go through a step-by-step process to build your own ML predictive model. Under her guidance you will learn how to load, pre-process and make sense of your data, how to select and apply a ML model for predictive analysis, and how to interpret the results.\n",
+    "\n",
+    "## Requirements to attendees\n",
+    "\n",
+    "In order to be productive on the master class, you should have at least basic knowledge of Python and interest to data analysis and machine learning. Please bring your laptops. No specific software is necessary to be installed. During the master class you will have an access to Jupyter Notebook environment online.\n",
+    "\n",
+    "## Schedule\n",
+    "\n",
+    "- 18h45: We open our doors\n",
+    "- 19h00: We start the master class\n",
+    "- 20h00: The work is over, we review the results and make plans for the future.\n",
+    "\n",
+    "## About the mentor\n",
+    "\n",
+    "Francisca is a Data Analyst at Jumia. She holds a major in Economics and a Masters in Finance. She loves automating routine tasks and perceive trends based on data. While she knows several programming languages, Python is her favorite."
+  ],
+  "end_date": "2018-05-02",
+  "location": null,
+  "name": "PyPorto #8 Workshop. End-to-end Machine learning with Python",
+  "rrule": null,
+  "start_date": "2018-05-02",
+  "url": "https://www.meetup.com/pyporto/events/249796502/"
+}
