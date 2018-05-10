@@ -1,0 +1,30 @@
+{
+  "description": [
+    "Welcome to our 16th meetup about DevOps and it's culture, values and practices. This time our meetup will be hosted by I2S.\n",
+    "\n",
+    "In a fast paced and agile world organizations have to move fast so that they can deliver high value to their customers. Continuous Delivery is a major trend in tech industry, but we cannot compromise quality for speed. Companies need to adapt their delivery process for such a frequent release schedule.\n",
+    "\n",
+    "How can you adapt your growing test suite so that you are not trapped in a \u201cslow\u201d delivery process? How can you divide tests in types and levels for a better optimization? What tests should you have for your specific project?\n",
+    "But it's not just about tests. How can you design your pipelines to cope with this new testing mindeset? How can a DevOps mindset help a team be more productive while having a better testing coverage? This talk aims to explain how to deliver better software in a fast way at the same time.\n",
+    "\n",
+    "Our invited speaker Andr\u00e9 Carmo will show his point of view about this.\n",
+    "\n",
+    "Andr\u00e9 Carmo (https://www.linkedin.com/in/andrecarmo/) is a Senior Infrastructure Engineer at Farfetch, after being a Test Automation Lead. He has been helping the Farfetch tech team to have better continuous delivery by spreading the word about test automation, by developing testing tools and frameworks, and by implementing complex but simple to use pipelines for continuous delivery. With 5+ years of experience in software testing, he was also a software developer in the past. He is very happy to learn new things from new people.\n",
+    "\n",
+    "Agenda:\n",
+    "\n",
+    "\u2022 Welcome\n",
+    "\u2022 Testing travel guide to Continuous Delivery by Andr\u00e9 Carmo\n",
+    "\u2022 Networking break\n",
+    "\u2022 Open space forum\n",
+    "\u2022 Closing\n",
+    "\n",
+    "We will have a great event with a lot of interesting discussion topics. Join us!"
+  ],
+  "end_date": "2018-05-16",
+  "location": "i2S",
+  "name": "DevOps Porto #16: Testing travel guide to Continuous Delivery",
+  "rrule": null,
+  "start_date": "2018-05-16",
+  "url": "https://www.meetup.com/devopsporto/events/250525943/"
+}
