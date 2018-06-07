@@ -1,0 +1,19 @@
+{
+  "description": [
+    "09:45 \u2013 Recep\u00e7\u00e3o dos participantes\n",
+    "10:00 \u2013 Building a Testing Culture \u2013 Pedro Tavares\n",
+    "We live surrounded by bad practices, stress, and fear of missing a delivery timeline. We all work or worked, on projects with those characteristics. If we don\u2019t enforce a shared culture of testing, no matter what, the quality of the software that we produce will suffer. With this talk/topic, I want to share the problems and solutions that will enable us to create a shared testing culture across our team and company. \n",
+    "11:00 \u2013 Coffee Break\n",
+    "11:30 \u2013 Containers, why should I use it? \u2013 Pedro Sousa\n",
+    "The last 4 years we\u2019ve seen several advances on containerization technologies, with new tools and features released at an increasing rate each year. Also with the DevOps (http://bit.ly/WhatIs-DevOps) culture being adopted by more and more companies worldwide, the boundaries of Developer and Operations teams are more and more thin. From Microsoft\u2019s BUILD 2018 (https://developer.microsoft.com/en-us/events/build/content), we\u2019ve seen several new features being released soon and some launched at the event. \n",
+    "As a Systems Engineer that used to be a Developer, I find myself using Visual Studio more and more at my daily work. On this session, we will try to cover the basics of container usage, i.e., container architecture implementations by Docker and Microsoft, both on Prem and on the Cloud. From some simple examples of .NET Core applications, using your favorite development interface and deploying somewhere; through some more elaborate scenarios to the Cloud journey. \n",
+    "12:30 \u2013 Painel de discuss\u00e3o e sorteio de pr\u00e9mios\n",
+    "Nota: Ao final da reuni\u00e3o, escolhemos um restaurante pr\u00f3ximo e fazemos um almo\u00e7o em grupo para continuar o conv\u00edvio e aproximar as pessoas. A participa\u00e7\u00e3o \u00e9 opcional. \n"
+  ],
+  "end_date": "2018-06-02",
+  "location": null,
+  "name": "22\u00aa Reuni\u00e3o da NetPonto no Porto",
+  "rrule": null,
+  "start_date": "2018-06-02",
+  "url": "http://scaleupporto.pt/event/22a-reuniao-da-netponto-no-porto/"
+}

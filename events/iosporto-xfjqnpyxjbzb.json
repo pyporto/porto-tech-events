@@ -1,12 +1,12 @@
 {
   "description": [
-    "Come and join us in our social event to talk about iOS @ Porto. It's a meetup event to meet people who wants to share knowledge and cool stuff about iOS.\n",
+    "In this meetup we will expand upon our previous workshop where we made a meal tracker. We will go into collection views, custom classes of cells and if we have time, we can try some networking calls too.\n",
     "\n",
-    "People from all different levels (none to expert) are welcome!"
+    "You should download our code and slides from the previous event at bit.ly/iOSPorto"
   ],
   "end_date": "2018-06-25",
   "location": "Porto.io Downtown",
-  "name": "iOS#00 - iCoffee",
+  "name": "iOS#02 - Advanced TableViews, CollectionViews, API calls",
   "rrule": null,
   "start_date": "2018-06-25",
   "url": "https://www.meetup.com/iosporto/events/249463907/"

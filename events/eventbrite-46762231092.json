@@ -1,0 +1,12 @@
+{
+  "description": [
+    "A H2O \u00e9 uma plataforma open source de Machine Learning que nos \u00faltimos anos revolucionou a \u00e1rea pela suas capacidades e simplicidade. Este workshop come\u00e7ar\u00e1 por dar a conhecer os algoritmos suportados pelo H2O para diferentes tarefas de aprendizagem (supervisionada e n\u00e3o supervisionada), bem como as suas principais configura\u00e7\u00f5es e estrat\u00e9gias de treino. De seguida ser\u00e3o analisados os diferentes tipos de output, que permitem avaliar o desempenho do modelo treinado. Por \u00faltimo, ser\u00e3o abordadas as diferentes formas de colocar um modelo H2O em produ\u00e7\u00e3o, para suportar o desenvolvimento de aplica\u00e7\u00f5es inteligentes. Todos estes t\u00f3picos ser\u00e3o abordados de uma forma pr\u00e1tica e aplicada atrav\u00e9s da configura\u00e7\u00e3o, treino e avalia\u00e7\u00e3o de modelos, que os participantes poder\u00e3o seguir se tiverem na sua m\u00e1quina uma inst\u00e2ncia da plataforma (dispon\u00edvel em https://www.h2o.ai/download/).\n",
+    "Orador:\u00a0Prof. Davide Carneiro"
+  ],
+  "end_date": "2018-06-09",
+  "location": "Escola Superior de Tecnologia - Instituto Polit\u00e9cnico do C\u00e1vado e do Ave",
+  "name": "WorkShop MEI - Data Science: Machine Learning com H2O",
+  "rrule": null,
+  "start_date": "2018-06-09",
+  "url": "https://www.eventbrite.pt/e/bilhetes-workshop-mei-data-science-machine-learning-com-h2o-46762231092?aff=ebapi"
+}
