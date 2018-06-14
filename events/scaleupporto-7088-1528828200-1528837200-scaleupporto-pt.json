@@ -1,8 +1,19 @@
 {
-  "description": [],
+  "description": [
+    "Agenda: \n",
+    "\n",
+    "18:30-19:00: Welcome and get together\n",
+    "19:00-19:30: Talk 1: \u201cMachine Learning in Medical Applications: from fundamental topics to practical aspects\u201d by Kelwin Fernandes \u2013 INESC TEC.\n",
+    "19:40-19:45: Group photo\n",
+    "19:45-20:15: Networking / Coffee Break\n",
+    "20:15-20:45: Talk 2: \u201cIntelligent Analysis of Contact Databases\u2019 Importation for Spam Prevention\u201d by Duarte Coelho \u2013 E-goi\n",
+    "20:50: Closing, hanging out and some beers\n",
+    "21:00: Dinner is optional but it might be an excellent opportunity for networking.\n",
+    "\n"
+  ],
   "end_date": "2018-06-12",
   "location": null,
-  "name": "DSPT#34 - TBA (Porto)",
+  "name": "DSPT#34 - An AI a day, keeps the doctor and the spam away!",
   "rrule": null,
   "start_date": "2018-06-12",
   "url": "http://scaleupporto.pt/event/dspt34-tba-porto/"

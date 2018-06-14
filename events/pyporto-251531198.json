@@ -1,0 +1,21 @@
+{
+  "description": [
+    "The Python Porto community with support of Jumia Group is thrilled to announce a workshop \u201cIntroduction to Python\u201d. The goal of the workshop is to allow guests with some prior programming experience to have a taste of Python programming language.\n",
+    "\n",
+    "Python is known as a language behind YouTube, Dropbox, Reddit and Instagram. It\u2019s used in data science and machine learning, as a language for web services and embedded systems, in robotics and system administration, from small scripts to large distributed systems. According to the latest StackOverflow review, Python has a solid claim to being the fastest-growing major programming language. With all of that, Python is surprisingly friendly for beginners and easy to learn.\n",
+    "\n",
+    "If you have some prior programming experience and want to give Python a try, we invite you for a free two-hour workshop. It takes place on 21 Jun, Thursday, at 18h30 in the Jumia Porto Tech Center. The address is Rua Ricardo Severo 3, 1st floor (close to Rotunda da Boavista).\n",
+    "\n",
+    "What counts as programming experience? Essentially, anything from Pascal in school, to PHP, JavaScript or VisualBasic. If you ever created variables, called functions or created for-loops, then you will not have any difficulties with the workshop material.\n",
+    "\n",
+    "Our mentor, Paulo Portela, is a key member of the Python Porto community and a software developer with more than 15 years of experience.\n",
+    "\n",
+    "Knowledge you get on the workshop will be enough to kick-start the process of self learning and may be useful in itself to automate some routine daily tasks on your computer. The recommended next step is to participate into our \u201cData Science with Python\u201d workshop, which takes place in one week in the same place."
+  ],
+  "end_date": "2018-06-21",
+  "location": "Jumia Porto Tech Center",
+  "name": "Workshop \"Introduction to Python\"",
+  "rrule": null,
+  "start_date": "2018-06-21",
+  "url": "https://www.meetup.com/pyporto/events/251531198/"
+}
