@@ -1,0 +1,30 @@
+{
+  "description": [
+    "\u201cWhere there is data, there is data science\u201d even in your own entertainment. Have you ever thought about music and videos as data?\n",
+    "Matthew Davies, researcher at INESC TEC is gonna show us how data can bring awesome music to our ears and Pedro Costa, Head of Research at Abyssal, will show us how to \u201cfish\u201d fishes out of videos, starting with a sea of unlabeled videos.\n",
+    "\n",
+    "Agenda:\n",
+    "\u2022 18:30-19:00: Welcome and get together\n",
+    "\u2022 19:00-19:30: Talk 1: \" Creative Applications of Music Information Research\" by Matthew Davies - INESC TEC.\n",
+    "\u2022 19:40-19:45: Group photo\n",
+    "\u2022 19:45-20:15: Networking / Coffee Break\n",
+    "\u2022 20:15-20:45: Talk 2: \"Big (Unlabeled) Data: a quest to create a fish detection dataset\" by Pedro Costa - Abyssal\n",
+    "\u2022 20:50: Closing, hanging out and some beers\n",
+    "\u2022 21:00: Dinner is optional, please register at https://doodle.com/poll/w2k3zkp8hw4z56z6\n",
+    "This meetup is supported by DevScope (https://www.devscope.net/) and Feedzai (https://feedzai.com/).\n",
+    "\n",
+    "Talk 1: Creative Applications of Music Information Research\n",
+    "Abstract: In this talk I will provide a high-level overview of how music information retrieval researchers approach the analysis of musical audio signals, and in turn, how the results of this analysis can be applied for creative purposes. Given my research background in the extraction of rhythmic structure from music signals, I will place specific emphasis on the role of the beat as a fundamental component for music synchronisation which can enable remixing, rhythm transformation, and music mashup. Finally, I will reflect on the importance of the role of the end-user both when designing creative music systems and evaluating them.\n",
+    "Short Bio: Matthew Davies is a music information retrieval researcher with a background in digital signal processing. He obtained the PhD from the Centre for Digital Music at Queen Mary University of London in 2007. In 2011 he joined the Sound and Music Computing Group (SMC) at INESC TEC in Porto working with Fabien Gouyon. During 2013 he worked with Masataka Goto at the National Advanced Institute of Science and Technology in Tsukuba, Japan before returning to INESC TEC. Since 2014, Matthew has coordinated the SMC Group at INESC TEC and was awarded an Investigator FCT Development Grant in 2016. His main research interests include the analysis of rhythm in musical audio signals, evaluation methodology, creative music applications, and reproducible research.\n",
+    "\n",
+    "Talk 2: Big (Unlabeled) Data: a quest to create a fish detection dataset\n",
+    "Abstract: Even though there are lots of saved image and video data available, most of this data is unlabeled. This means that the first step of a new Computer Vision project is the creation and labeling of a new dataset. This step requires lots of human hours to label uninteresting, boring, redundant images so that a (deep) learning algorithm can be trained. What if we could select only the most relevant and interesting examples from the entire unlabeled dataset? What if we could minimize the number of required labeled examples to achieve a desired performance? In this presentation we explore how we are using Active Learning to create a dataset to solve the problem of detecting fish in subsea videos.\n",
+    "Short Bio: Pedro Costa holds a MSc (2015) in Informatics and Computing Engineering at the Faculty of Engineering, University of Porto. Costa started working with INESC TEC in 2014 trying to find adverse drug reactions in biological data using ML. After a brief experience in the industry, Costa came back to INESC TEC to work on medical image processing using Deep Learning methods, having published in top medical imaging journals and conferences. He then spent 3 months working on weakly supervised deep learning methods at Carnegie Mellon University (CMU). Currently, he is Head of Research at Abyssal, working on how to improve Remotely Operated Vehicles\u2019 operational efficiency using ML and Computer Vision techniques. He is also a researcher at INESC TEC and keeps cooperating with CMU."
+  ],
+  "end_date": "2018-10-23",
+  "location": "Universidade Portucalense",
+  "name": "DSPT#41 - Data Science with a Visual Beat (Porto)",
+  "rrule": null,
+  "start_date": "2018-10-23",
+  "url": "https://www.meetup.com/datascienceportugal/events/255563962/"
+}

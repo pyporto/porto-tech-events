@@ -1,0 +1,19 @@
+{
+  "description": [
+    "Welcome to Hacktoberfest @ Porto!\n",
+    "Celebrate open source over food, drinks, and great company! Hacktoberfest is all about encouraging meaningful contributions to the open source ecosystem. You do not need to be a developer or know code to participate.\n",
+    "Come along to learn how you can become an open source contributor! You will have the chance to work with others on your contributions at this event, so please bring your laptop!\n",
+    "\n",
+    "What is Hacktoberfest?\n",
+    "Hacktoberfest \u2014 brought to you by DigitalOcean in partnership with GitHub and Twilio \u2014 is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. No contribution is too small\u2014bug fixes and documentation updates are valid ways of participating.\n",
+    "Rules and Prizes\n",
+    "First sign up on the Hacktoberfest site. If you open up five pull requests between October 1 and October 31, you'll win a free, limited edition Hacktoberfest T-shirt. Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.\n",
+    "Find out more!"
+  ],
+  "end_date": "2018-10-29",
+  "location": "Talkdesk",
+  "name": "Hacktoberfest @ Porto",
+  "rrule": null,
+  "start_date": "2018-10-29",
+  "url": "https://www.eventbrite.com/e/hacktoberfest-porto-tickets-51409133101?aff=ebapi"
+}

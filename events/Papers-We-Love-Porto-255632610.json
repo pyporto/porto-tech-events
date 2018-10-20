@@ -1,0 +1,25 @@
+{
+  "description": [
+    "Hello everyone \ud83d\udc4b\n",
+    "\n",
+    "We're getting ready for the 7th session of Papers We Love @ Porto.\n",
+    "\n",
+    "Let's sit together and discuss about one of the most misunderstood concept in distributed systems, introduced by Eric A. Brewer in the paper \"Harvest, Yield, and Scalable Tolerant Systems\", the CAP Theorem.\n",
+    "\n",
+    "Details\n",
+    "\n",
+    "There will be a presentation around the CAP Theorem and its misconceptions, still, if you can, please read the paper (https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf).\n",
+    "\n",
+    "Doors will open around 18:30 and we'll start the discussion after a quick introduction of the meetup, around 19:00.\n",
+    "\n",
+    "After we can grab a drink nearby!\n",
+    "\n",
+    "Hope to see you soon \ud83c\udf89"
+  ],
+  "end_date": "2018-10-30",
+  "location": "Porto i/o Santa Catarina",
+  "name": "PWL #07 :: Harvest, Yield, and Scalable Tolerant Systems",
+  "rrule": null,
+  "start_date": "2018-10-30",
+  "url": "https://www.meetup.com/Papers-We-Love-Porto/events/255632610/"
+}
