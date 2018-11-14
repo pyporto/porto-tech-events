@@ -1,0 +1,28 @@
+{
+  "description": [
+    "Welcome to our 22th meetup about DevOps and it's culture, values and practices. This meetup will be held at Talkdesk's shiny new offices.\n",
+    "\n",
+    "Do you still configure your builds manually through a User Interface?\n",
+    "\n",
+    "In the past years, Infrastructure as Code has become a new normal, especially with the advent of new technologies like Puppet, Chef or Docker.\n",
+    "This practice made the Operations teams to adopt common development practices to manage their infrastructure. Strangely, the Continuous Integration processes continue to be manually configured.\n",
+    "\n",
+    "In this session Guilherme Ferreira, our invited speaker, will explore the Build as Code concept and will use Cake (http://cakebuild.net), a build automation solution based on C#, to help us.\n",
+    "\n",
+    "Guilherme (https://www.linkedin.com/in/gferreira/) is a Software Architect @ NumbersBelieve (where he also acted as a Software Developer and Scrum Master). He is the organiser of the NetPonto Community.\n",
+    "He is also a football fan, addicted to coffee and a foodie (a geek who cooks!).\n",
+    "\n",
+    "Agenda:\n",
+    "\u2022 Welcome\n",
+    "\u2022 Build Automation in a DevOps way! by Guilherme Ferreira\n",
+    "\u2022 Coffee/Networking break\n",
+    "\u2022 Open space\n",
+    "\u2022 Closing"
+  ],
+  "end_date": "2018-11-27",
+  "location": "Talkdesk",
+  "name": "DevOps Porto #22: Build Automation in a DevOps way!",
+  "rrule": null,
+  "start_date": "2018-11-27",
+  "url": "https://www.meetup.com/devopsporto/events/256370094/"
+}
