@@ -1,0 +1,19 @@
+{
+  "description": [
+    "GDG Porto will be a partner of \"type of conference\" to bring you top-notch speakers and talks!\n",
+    "\n",
+    "What is typeof?\n",
+    "\n",
+    "typeof is a professional frontend and web technologies conference. The inaugural edition is taking place in Porto on 28th and 29th of March, hosting a single track of talks and workshops by top-notch international speakers.\n",
+    "\n",
+    "Sessions will focus on topics like JavaScript, CSS, PWAs, performance, frameworks, animations, design, UX, browsers, tooling, code quality, machine learning in the browser, APIs, GraphQL and much more.\n",
+    "\n",
+    "Please check https://typeofconf.com/ for more info! :-)"
+  ],
+  "end_date": "2019-03-28",
+  "location": "Alf\u00e2ndega do Porto Congress Centre",
+  "name": "typeof conference",
+  "rrule": null,
+  "start_date": "2019-03-28",
+  "url": "https://www.meetup.com/GDG-Porto/events/256411390/"
+}

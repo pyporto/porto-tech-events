@@ -1,7 +1,13 @@
 {
   "description": [
     "With over 100 million monthly commercial active users, Office 365 is the largest productivity service available. Office 365 offers an incredible opportunity for developers, with business-critical data and millions of users combined with a platform designed to keep people in the flow of their work. As a developer, you can use the tools you work with every day to create intelligent, connected products and solutions.\n",
-    "The Global Office 365 Developer Bootcamp is a free, one-day training event led by Microsoft MVPs with the support of Microsoft. We will provide hands-on labs for latest and greatest technologies and products (Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages, and more) on the Office 365 platform. Developers can apply these learnings to their products or solutions to achieve more right away."
+    "The Global Office 365 Developer Bootcamp is a free, one-day training event led by Microsoft MVPs with the support of Microsoft. We will provide hands-on labs for latest and greatest technologies and products (Microsoft Graph, SharePoint Framework, Microsoft Teams, Office Add-ins, Connectors and Actionable Messages, and more) on the Office 365 platform. Developers can apply these learnings to their products or solutions to achieve more right away.\n",
+    "\n",
+    "AGENDA\n",
+    "08h30 - 09h00 - Registration, coffee and networking09h00 - 09h45 - Keynote09h45 - 12h45 - Hands-On Lab: Teams & SPFx (optional: Authentication, Consent, GraphAPI)12h45 - 14h00 - Lunch14h00 - 17h00 - Hands-On Lab: Teams & Bots (optional: PowerApps, Flow)17h00 - Closing\n",
+    "\n",
+    "SPEAKERS & ORGANIZERS\n",
+    "Beatriz Oliveira, Microsoft Office Development MVPJo\u00e3o Sousa, Microsoft Developer Technologies MVPJos\u00e9 Ant\u00f3nio Silva, Microsoft Regional DirectorPedro Sousa, Microsoft Azure MVPSandro Pereira,\u00a0Microsoft Azure MVPCarlos Silva, Platform Lead at BindTuningJo\u00e3o Ferreira, SharePoint Lead at BindTuning"
   ],
   "end_date": "2018-11-30",
   "location": "DevScope",
