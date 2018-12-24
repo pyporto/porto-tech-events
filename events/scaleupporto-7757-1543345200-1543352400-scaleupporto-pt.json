@@ -1,0 +1,17 @@
+{
+  "description": [
+    "Do you still configure your builds manually through a User Interface? In this session Guilherme Ferreira, the invited speaker, will explore the Build as Code concept and will use Cake, a build automation solution based on C#, to help. \n",
+    "Agenda:\n",
+    "\u2022 Welcome\n",
+    "\u2022 Build Automation in a DevOps way! by Guilherme Ferreira\n",
+    "\u2022 Coffee/Networking break\n",
+    "\u2022 Open space\n",
+    "\u2022 Closing \n"
+  ],
+  "end_date": "2018-11-27",
+  "location": null,
+  "name": "DevOps Porto #22: Build Automation in a DevOps way!",
+  "rrule": null,
+  "start_date": "2018-11-27",
+  "url": "http://scaleupporto.pt/event/devops-porto-22-build-automation-in-a-devops-way/"
+}

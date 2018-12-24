@@ -1,0 +1,20 @@
+{
+  "description": [
+    "Next Porto.Data meetup will be organized jointly with the community dedicated to Python (Pyporto) and in the end of the year nothing like having to sessions: \n",
+    "1 \u2013 Machine Learning with Python in SQL Server Ecosystem\n",
+    "2 \u2013 Cohort analytics with Redis and bitmapist \n",
+    "Agenda\n",
+    "18:50 \u2013 Opening and welcome\n",
+    "19:00 \u2013 \u201cMachine Learning with Python in SQL Server Ecosystem\u201d Diamantino Falc\u00e3o \u2013 Data professional\n",
+    "19:25 \u2013 Coffee break / Q.A / Community News.\n",
+    "19:40 \u2013 \u201cCohort analytics with Redis and bitmapist\u201d\n",
+    "20:05 \u2013 Closing\n",
+    "20:15 \u2013 Dinner \n"
+  ],
+  "end_date": "2018-12-12",
+  "location": null,
+  "name": "Porto.Data & Pyporto",
+  "rrule": null,
+  "start_date": "2018-12-12",
+  "url": "http://scaleupporto.pt/event/porto-data-pyporto/"
+}

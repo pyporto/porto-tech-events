@@ -1,0 +1,19 @@
+{
+  "description": [
+    "Hostelworld will host a meetup to discuss relevant tech topics, networking and have fun! Four Hostelworld speakers will be engaging with the audience alongside great food and drinks. \n",
+    "# Agenda \n",
+    "\u2013 18h 30 \u2013 Welcome Drink \n",
+    "\u2013 19h15 \u2013 \u201cText Me (Messaging and microservices)\u201d by Hugo Valente \n",
+    "\u2013 19h45 \u2013 \u201cKnow your user\u201d by Ma\u00edsa Carvalho \n",
+    "\u2013 20h15 \u2013 Pause for enjoying a delicious variety of snacks \n",
+    "\u2013 20h45 \u2013 \u201cWhat the f*** does a QA?\u201d by Pedro Tavares \n",
+    "\u2013 21h15 \u2013 \u201cDeep Learning: How does it work?\u201d by Samir Ant\u00f4nio \n",
+    "\u2013 21h45 \u2013 End \n"
+  ],
+  "end_date": "2018-12-05",
+  "location": null,
+  "name": "Hostelworld Tech Talks",
+  "rrule": null,
+  "start_date": "2018-12-05",
+  "url": "http://scaleupporto.pt/event/hostelworld-tech-talks/"
+}

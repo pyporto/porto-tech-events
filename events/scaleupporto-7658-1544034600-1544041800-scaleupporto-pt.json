@@ -1,0 +1,16 @@
+{
+  "description": [
+    "Tiago Freitas and Pedro Costa will be teaching about One-Shot Learning using Siamese Networks and how to use Active Learning to help labelling your dataset. \n",
+    "AGENDA\n",
+    "18:30 \u2013 \u2705 Check-in\n",
+    "18:45 \u2013 \ud83c\udf99 Introduction to One-shot learning using siamese networks with Tiago Freitas\n",
+    "19:30 \u2013 \u2615\ufe0f Coffee break\n",
+    "19:45 \u2013 \ud83c\udf99 Using a model to help you label your dataset with Pedro Costa \n"
+  ],
+  "end_date": "2018-12-05",
+  "location": null,
+  "name": "Machine Learning Porto #1 - One-Shot Learning & Active Learning",
+  "rrule": null,
+  "start_date": "2018-12-05",
+  "url": "http://scaleupporto.pt/event/machine-learning-porto-1-one-shot-learning-active-learning/"
+}
