@@ -1,0 +1,12 @@
+{
+  "description": [
+    "This meeting is a general introduction to Redis.\n",
+    "It will go over the basic concepts, data types and modules. If you\u2019re new to Redis, this is the right meetup for you! \n"
+  ],
+  "end_date": "2019-02-26",
+  "location": null,
+  "name": "Redis Porto #1 - Intro to Redis Commands and Data Structures @Porto i/o",
+  "rrule": null,
+  "start_date": "2019-02-26",
+  "url": "https://scaleupporto.pt/event/redis-porto-1-intro-to-redis-commands-and-data-structures-porto-i-o/"
+}

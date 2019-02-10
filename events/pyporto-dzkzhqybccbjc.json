@@ -1,0 +1,21 @@
+{
+  "description": [
+    "PyCoffee is an experimental format of informal Python meetups, organized by Python Porto in partnership with Porto i/o.\n",
+    "\n",
+    "There is no agenda and no speakers. It\u2019s for those who is ready to start Sunday with a cup of hot coffee and a chat with like-minded python developers or beginners. We speak English or Portuguese, and we welcome guests with different backgrounds, coming from different countries and pursuing their own very different goals.\n",
+    "\n",
+    "Usually we start by introducing ourselves, our Python experience and try to formulate our expectations from a meetup. Then altogether we come up with some ideas or mini-projects to work on. We can work together or split in groups.\n",
+    "\n",
+    "For beginners. We can help to familiarize in a Python environment and show how to install Python and third-party packages, how to organize the code in the project, and in general, how to go from scratch to something useful and exciting.\n",
+    "\n",
+    "For more experienced developers. We share our experience and our challenges, play with new libraries and write some code together. Beginner groups are often led by more experienced developers willing to share their knowledge with newcomers.\n",
+    "\n",
+    "Any questions, please let us know!"
+  ],
+  "end_date": "2020-01-26",
+  "location": "Porto i/o",
+  "name": "PyCoffee. Hot coffee and Pythonic discussions in Porto i/o",
+  "rrule": null,
+  "start_date": "2020-01-26",
+  "url": "https://www.meetup.com/pyporto/events/dzkzhqybccbjc/"
+}

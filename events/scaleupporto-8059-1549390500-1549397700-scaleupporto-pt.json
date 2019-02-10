@@ -1,0 +1,17 @@
+{
+  "description": [
+    "An event from PHPorto that will explore themes such as Event Sourcing and the history of frameworks. \n",
+    "# Agenda \n",
+    "18h15 \u2013 Official start and networking \n",
+    "18h30 \u2013 A Journey from Hexagonal Architecture to Event Sourcing by Carlos Buenosvinos (https://twitter.com/buenosvinos) \n",
+    "19h10 \u2013 Break \n",
+    "19h30 \u2013 From Helpers to Middleware by Marco Pivetta (https://twitter.com/Ocramius) \n",
+    "20h10 \u2013 Networking \n"
+  ],
+  "end_date": "2019-02-05",
+  "location": null,
+  "name": "PHPorto meetup - February 2019",
+  "rrule": null,
+  "start_date": "2019-02-05",
+  "url": "https://scaleupporto.pt/event/phporto-meetup-february-2019/"
+}
