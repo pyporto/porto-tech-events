@@ -1,0 +1,31 @@
+{
+  "description": [
+    "One of a kind, out of schedule event of Python Porto in partnership with kiwi.com. Two guest speakers from Barcelona come to UPTEC to share their experience of taming data with Python. In between we\u2019ll have a coffee break with snacks, drinks and heated discussions. After the event everyone is welcome to join the networking dinner, where we can continue the discussion.\n",
+    "\n",
+    "AGENDA\n",
+    "\n",
+    "- 19:00 \u2014 19:10. Opening talk\n",
+    "- 19:10 \u2014 19:40. Dimitri Herrero. \u201cCoding together, different ways to do so for Data Enthusiasts\u201d.\n",
+    "- 19:40 \u2014 20:00. Coffee and networking break\n",
+    "- 20:00 \u2014 20:30. Artur Mindiiarov. \u201dDemocratizing data at Kiwi.com\u201d\n",
+    "- 20:30 \u2014 21:00. Wrapping up\n",
+    "\n",
+    "The format and the location of the dinner is up to discussion. If you happen to have some ideas, share it with organizers.\n",
+    "\n",
+    "CODING TOGETHER, DIFFERENT WAYS TO DO SO FOR DATA ENTHUSIASTS\n",
+    "\n",
+    "Our first speaker Dimitri Herrero is the Tech Lead of Business Intelligence at Kiwi.com.\n",
+    "\n",
+    "In his talk Dimitri reviews and compares the tools that are now available to explore data and train machine learning models. If you are a data scientist or enthusiast, you are probably using Jupyter Notebooks to explore data. However, when working as a team, we have several tools such as Google Collaborator, Google Datalab, Amazon SageMaker, etc. that could be a better fit when collaborating with others.\n",
+    "\n",
+    "DEMOCRATIZING DATA AT KIWI.COM\n",
+    "\n",
+    "Artur Mindiiarov is a Data Engineer at Kiwi.com. He will be talking about the ongoing effort to make data open and accessible to everyone. He shares how using the power of graph databases and natural language processing they built a Slack chatbot, helping them in finding the right information. It\u2019s all built in Python (of course!) with help of Elasticsearch, Neo4j and Dialogflow."
+  ],
+  "end_date": "2019-03-01",
+  "location": "UPTEC",
+  "name": "Python talks with kiwi.com",
+  "rrule": null,
+  "start_date": "2019-03-01",
+  "url": "https://www.meetup.com/pyporto/events/258865271/"
+}
