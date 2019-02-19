@@ -1,12 +1,23 @@
 {
   "description": [
-    "Daniel Ferrari, data scientist at Talkdesk and Machine Learning instructor provides a hands-on workshop on clustering with Python.\n",
+    "In the workshop, you will learn the basics of Clustering, the main unsupervised problem on Machine Learning, how the most used algorithm for it works, and how to properly evaluate and interpret the results. Most important of all, everything will be in Python.\n",
     "\n",
-    "In the workshop you will learn what is clustering, how to do it in Python, and understand how to properly evaluate and interpret the results."
+    "The workshop will occur at Talkdesk new office with a limit of 40 attendees, to provide a nice learning experience for everyone.\n",
+    "\n",
+    "Come in, bring your laptop, grab a beer, and let's cluster together.\n",
+    "\n",
+    "Bio:\n",
+    "Daniel Ferrari holds a Ph.D. in Data Mining and Machine Learning. Acting as a researcher published a book and several articles in partnership with Computer Science and Biological labs. As a Software Engineer, he has contributed to the development of an ERP system for 10 years. Now, as a Data Scientist combines his experiences to develop complete Machine Learning pipelines from data extraction and manipulation to production deployment (www.linkedin.com/in/danielgomesferrari).\n",
+    "\n",
+    "Agenda:\n",
+    "6.45pm - 7pm: Registration / Meet & Greet\n",
+    "7pm - 7.45pm: \"What is Clustering, and how to do it in Python?\"\n",
+    "7.45pm - 8pm: Coffee Break\n",
+    "8pm - 8.45pm: \"How to evaluate and vizualise the results?\""
   ],
   "end_date": "2019-04-24",
-  "location": null,
-  "name": "Hands-on clustering with Python. Workshop at Talkdesk",
+  "location": "Talkdesk",
+  "name": "Workshop \"Clustering with Python\"",
   "rrule": null,
   "start_date": "2019-04-24",
   "url": "https://www.meetup.com/pyporto/events/258956469/"
