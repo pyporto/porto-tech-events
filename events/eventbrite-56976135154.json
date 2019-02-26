@@ -1,0 +1,23 @@
+{
+  "description": [
+    "Mais uma vez unimos for\u00e7as com a\u00a0Feedzai\u00a0para vos trazermos outro workshop de React.\n",
+    "--\n",
+    "\"In this workshop we will talk about what unit tests are, the best practices for writing them and we will help you write your first frontend tests.\"\n",
+    "--\n",
+    "\n",
+    "Requisitos\n",
+    "\n",
+    "\n",
+    "\n",
+    "Levar computador\n",
+    "Ter Node.js instalado (V8 ou superior) com npm 6.x\n",
+    "Ter um editor de c\u00f3digo instalado (por exemplo, Visual Studio Code)\n",
+    "\n"
+  ],
+  "end_date": "2019-02-27",
+  "location": "FEUP - Faculdade de Engenharia da Universidade do Porto",
+  "name": "Workshop React: Frontend Unit Tests",
+  "rrule": null,
+  "start_date": "2019-02-27",
+  "url": "https://www.eventbrite.pt/e/bilhetes-workshop-react-frontend-unit-tests-56976135154?aff=ebapi"
+}

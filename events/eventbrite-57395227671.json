@@ -1,0 +1,11 @@
+{
+  "description": [
+    "One of a kind, an event by Python Porto in partnership with Kiwi.com. Two guest speakers from Barcelona come to UPTEC to share their experience of riding drones and taming data with Python. In between, we\u2019ll have a coffee break with snacks, drinks and heated discussions. After the event, everyone is welcome to join the networking dinner, where we can continue the discussion.AGENDA- 19:00 \u2014 19:10. Opening talk- 19:10 \u2014 19:40. Dimitri Herrero. \u201cFlying drones with Python\u201d.- 19:40 \u2014 20:00. Coffee and networking break- 20:00 \u2014 20:30. Artur Mindiiarov. \u201dDemocratizing data at Kiwi.com\u201d- 20:30 \u2014 21:00. Wrapping upThe format and the location of the dinner are up to discussion. If you happen to have some ideas, share it with organisers.FLYING DRONES WITH PYTHONOur first speaker Dimitri Herrero is the Tech Lead of Business Intelligence at Kiwi.com. There they love everything related to flying, including drones.In this talk, Dimitri introduces you to the Dronecode project. He\u2019s going to walk you briefly through all the components you need to build a drone, and then he will present a demo of the Dronecode Python SDK.We hope that by the end of the session you'll have an interest in building your first drone app on Python and a clear understanding of how to do it.DEMOCRATIZING DATA AT KIWI.COMArtur Mindiiarov is a Data Engineer at Kiwi.com. He will be talking about the ongoing effort to make data open and accessible to everyone. He shares how using the power of graph databases and natural language processing they built a Slack chatbot, helping them in finding the right information. It\u2019s all built in Python (of course!) with the help of Elasticsearch, Neo4j and Dialogflow."
+  ],
+  "end_date": "2019-03-01",
+  "location": "UPTEC",
+  "name": "Python talks with Kiwi.com",
+  "rrule": null,
+  "start_date": "2019-03-01",
+  "url": "https://www.eventbrite.com/e/python-talks-with-kiwicom-tickets-57395227671?aff=ebapi"
+}
