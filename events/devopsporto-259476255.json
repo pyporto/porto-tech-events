@@ -1,0 +1,22 @@
+{
+  "description": [
+    "Welcome to our 25th meetup about DevOps and its culture, values and practices. This meetup will take place at Feedzai.\n",
+    "\n",
+    "Traditional server management and deployment strategies rely on existing servers and infrastructure managed by some IT/Operations team which when you scale to a few hundred servers leads to inconsistent configurations and high management burden. At Feedzai, an immutable server approach is being used to achieve highly consistent environments while giving the development teams ownership of the deployment rules.\n",
+    "\n",
+    "Our invited speaker, Tiago Rodrigues (https://www.linkedin.com/in/tiago-rodrigues-10511ab/), will dive into the details on how new product increments get shipped from development to production and also how that helped Feedzai deliver faster, reduce operational tasks and maintain international certifications. He'll also talk about the technologies that support all of this, such as Ansible, Packer and AWS services.\n",
+    "\n",
+    "Agenda:\n",
+    "\u2022 Welcome\n",
+    "\u2022 From pets to cattle - an immutable approach to infrastructure by Tiago Rodrigues\n",
+    "\u2022 Coffee/Networking break\n",
+    "\u2022 Open space\n",
+    "\u2022 Closing"
+  ],
+  "end_date": "2019-03-14",
+  "location": "Feedzai - Porto Office",
+  "name": "DevOps Porto #25: Immutable infrastructure ",
+  "rrule": null,
+  "start_date": "2019-03-14",
+  "url": "https://www.meetup.com/devopsporto/events/259476255/"
+}
