@@ -1,0 +1,28 @@
+{
+  "description": [
+    "We are happy to announce our first quarterly meeting! We have been planning a full day of learning\u00a0(hands-on)\u00a0with two awesome speakers: Pedro Balage from Farfetch and Jo\u00e3o Lages from OutSystems.\u00a0\n",
+    "Since we want to make sure that you are really coming to the event we politely ask you to pay a small fee\u00a0(10\u20ac)\u00a0that guarantees your participation which will be\u00a0fully refunded\u00a0on the day of the event after the\u00a0check-in.\u00a0Once you get your\u00a0free\u00a0ticket,\u00a0we will send you an e-mail with more informations regarding this (besides the eventbrite e-mail with the ticket).\u00a0Only after this last step, we will consider your registration complete.\n",
+    "In this workshop, we will offer an introduction to Natural Language Processing\u00a0(NLP)\u00a0with a special focus on deep learning approaches. The first part of this workshop will focus on how to model textual data with word embeddings and context embeddings. We will also talk about the basics behind the algorithms commonly used in NLP\u00a0(word2vec,\u00a0glove, ELMO, BERT). The second part of this workshop will focus on using this knowledge to provide data science solutions, such as text classification. The workshop will be 100% hands-on with Python, Keras and Jupyter notebooks. The participants are asked to bring their own laptops to interact with the workshop. In order to take more advantage of the workshop, we'll send you the details about the libraries that you will need to install before the #1 Quarterly Meeting.\n",
+    "\n",
+    "Agenda\n",
+    "10:30:\u00a0Check-in11:00:\u00a0How to model textual data: Word Embeddings\u00a013:00: Lunch15:00:\u00a0Applied knowledge: from theory to code17:00:\u00a0Drinks & Drinks\u00a0with networking\n",
+    "We invite you to come lunch with all of us. Although we do not offer the lunch, it might be an excellent opportunity for networking (please register here:\u00a0https://doodle.com/poll/8zpxzptbw7i2982q)\n",
+    "\n",
+    "Know our speakers\n",
+    "\n",
+    "\n",
+    "Pedro Balage\u00a0works as Lead Data Scientist at Farfetch, focusing on providing NLP capabilities for its e-commerce search. He holds a PhD in Natural Language Processing from the University of S\u00e3o Paulo\u00a0(Brazil)\u00a0and he is affiliated to the Instituto de Telecomunica\u00e7\u00f5es\u00a0(IT- Lisbon). He is member of the organisation committee for the Lisbon Machine Learning School\u00a0(LxMLS).\n",
+    "\n",
+    "\n",
+    "Jo\u00e3o Lages\u00a0works as a Research Scientist at OutSystems, who doesn\u2019t usually write about himself in the third person, but here we are. He holds a MSc in Electrical and Computer Engineering, with a focus on Deep Learning applied to Information Retrieval in his thesis project.\u00a0\n",
+    "\n",
+    "\n",
+    "We look forward to seeing you there!"
+  ],
+  "end_date": "2019-03-30",
+  "location": "UPTEC",
+  "name": "Porto AI :: Quarterly Meeting #1 - An introduction to Natural Language Processing",
+  "rrule": null,
+  "start_date": "2019-03-30",
+  "url": "https://www.eventbrite.com/e/porto-ai-quarterly-meeting-1-an-introduction-to-natural-language-processing-tickets-58489829655?aff=ebapi"
+}

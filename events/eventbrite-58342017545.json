@@ -1,0 +1,27 @@
+{
+  "description": [
+    "Expected schedule\n",
+    "18:45 - Reception\n",
+    "19:00 - PTM\n",
+    "19:05 - Scaling Test Automation by Tiago Correia\n",
+    "19:45 - Coffee break\n",
+    "20:00 -\u00a0Ensuring Safety for Critical Systems: The ultimate Quality Assurance Challenge by Nuno Silva\n",
+    "20:45 - Closure\n",
+    "----------------------------------\n",
+    "More about the speakers\n",
+    "----------------------------------\n",
+    "Tiago Correia\n",
+    "Recently moved to an Engineering Manager role for a Test Automation team. I have 10 years experience in QA, plus 2 as a developer, with a strong knowledge about QA processes (both manual and automated) and methodologies including mobile and web platforms.\n",
+    "----------------------------------\n",
+    "Nuno Silva\n",
+    "Nuno Silva is currently Safety Manager for aerospace and transportation projects, mostly related with Safety, Verification, Validation and RAMS, at CRITICAL Software SA. He graduated in Computer Engineering in 1997 at \u00c9cole Polytechnique of Montreal University, in Canada, specializing in Robotics and Artificial Intelligence. Mr. Silva is fluent in Portuguese, French Canadian, English and Spanish.\n",
+    "He has experience in training, management, specification, design, implementation and validation of several projects since 1997. He has started in the financial market, where he designed, implemented and certified several applications for payment terminals embedded systems. He was also involved with the telecom market (Motorola) working in Montreal and Chicago as worldwide responsible for iDEN Advanced Packet Duplicator. He joined CRITICAL Software SA team back in 2002, and he\u2019s been working in critical systems since then. At CRITICAL Software, Nuno has worked in the development of application for satellite data processing, independent verification and validation of critical systems, dependability techniques for safety critical systems, fault injection for robust products, and several external consultancy projects in the aeronautics, space and transportation markets. Mr. Silva frequently performs team management and has been managing space and transportation related projects, namely safety critical projects that involve verification, validation, RAMS, qualification and certification tasks. Nuno Silva has a PhD from University of Coimbra, combining his industrial experience with the Safety Critical Systems assessment and independent verification and validation research topics.\n",
+    "Dr. Silva is experienced in different technical domains and aware of different international standards, including the ECSS and the CENELEC standards where he has provided internal and external training sessions, with particular focus to Safety Management activities under CENELEC. He has participated in dozens of peer-reviewed publications and worked with renowned international entities, including ESA, NASA, JAXA, ESO, Thales, Bombardier, Motorola, Airbus."
+  ],
+  "end_date": "2019-03-12",
+  "location": "Talkdesk",
+  "name": "Porto Testers Meetup #3.4",
+  "rrule": null,
+  "start_date": "2019-03-12",
+  "url": "https://www.eventbrite.pt/e/bilhetes-porto-testers-meetup-34-58342017545?aff=ebapi"
+}
