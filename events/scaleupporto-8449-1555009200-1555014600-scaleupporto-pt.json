@@ -1,0 +1,12 @@
+{
+  "description": [
+    "Developing globally distributed applications can be challenging, as developers have to think about scaling their apps geographically to avoid latency.\n",
+    "The talk will be about how we can implement efficient high availability and cross-datacenter replication in Redis. \n"
+  ],
+  "end_date": "2019-04-11",
+  "location": null,
+  "name": "Redis Porto #2",
+  "rrule": null,
+  "start_date": "2019-04-11",
+  "url": "https://scaleupporto.pt/event/redis-porto-2/"
+}
